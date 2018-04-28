@@ -1,3 +1,3 @@
-# Chinese-LPR
+# app
 
-Try to design an Android App to recognize Chinese license plate.
+Try to design an Android App...
