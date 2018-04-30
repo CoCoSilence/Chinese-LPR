@@ -1,3 +1,0 @@
-# app
-
-Try to design an Android App...
